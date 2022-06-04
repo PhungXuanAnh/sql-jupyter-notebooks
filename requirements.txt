@@ -1,0 +1,7 @@
+jupyter
+
+ipython-sql
+
+psycopg2 # for postgres
+# pyodbc # for SQL Server
+# mysql # for MySQL
